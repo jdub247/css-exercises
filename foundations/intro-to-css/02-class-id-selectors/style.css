@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#bluetext {
+    color: blue;
+    font-size: 36px;
+}
+
+#greenbold {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.mid-size-text {
+    font-size: 30px;
+}
+
